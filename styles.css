@@ -1,3 +1,13 @@
 body{
   background-image: images/pool.jpg
+  display: flex;
+
+}
+h4{
+  font-family: Verdana, sans-serif;
+  color: darkblue;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
 }
