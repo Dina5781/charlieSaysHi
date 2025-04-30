@@ -1,8 +1,10 @@
 body{
+  display: flex;
   background-image: url('images/CSH.png');
   background-size: 300px 200px;     
   background-repeat: no-repeat;
   background-position: center; 
+  padding: 20px;
 }
 h4{
   font-family: Verdana, sans-serif;
